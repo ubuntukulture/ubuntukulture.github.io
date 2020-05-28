@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang = "en">
+  <head>
+    <meta charset = "UTF-8">
+    <title>Ubuntu Homepage</title>
+  </head>
+  
+  <body>
+  	<header>
+  		<h1><a href="Index.html">Ubuntu Kulture</a></h1>
+  	    <h2>Experience Culture. LifeStyle. Business</h2>
+
+  	
+  	  <nav>
+  		<a href="Index.html">Home</a>
+  		<a href="News.html">News</a>
+  		<a href="Classified.html">Classified</a>
+  		<a href="Blogs.html">Blogs</a>
+  		<a href="ContactUs.html">Contact Us</a>
+  	  </nav>
+  	
+  </header>
+  <main>
+  	
+  	</section>
+  	
+  </main>
+
+  <footer>
+
+  		<nav>
+         <a href="Index.html">Home</a>
+  		   <a href="News.html">News</a>
+  		   <a href="Classified.html">Classified</a>
+  		   <a href="Blogs.html">Blogs</a>
+  		   <a href="ContactUs.html">Contact Us</a>
+  		</nav>
+
+  </footer>
+  
+ </body>
+
+</html>
